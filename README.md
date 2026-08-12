@@ -1,3 +1,7 @@
+# AI Sandbagging with Inspect
+
+## TLDR
+
 ## Project Selection
 
 While I was conducting a literature review for another alignment research project, I stumbled upon the paper, [AI Sandbagging: Language Models Can Strategically Underperform on Evaluations](https://arxiv.org/pdf/2406.07358). Van der Weij et al. (2025) highlight how possible conflicts of interest may arise when AI system developers, or the AI itself, have incentives to deliberately understate its actual capabilities, effectively defining the problem of sandbagging, or “_strategic underperformance on an evaluation_.” 
